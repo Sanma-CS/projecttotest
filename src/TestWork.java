@@ -3,7 +3,7 @@
  */
 public class TestWork
 {
-    public static void main() {
+    public static void main(String argv[]) {
         System.out.println("Hello");
         // this is gonna be tough
         for (int i = 0; i < 10; i++) {
